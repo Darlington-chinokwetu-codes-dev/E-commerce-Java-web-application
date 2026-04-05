@@ -1,7 +1,7 @@
 🛒 Java Online Cart Simulation
 📌 Project Overview
 
-The Java Online Cart Simulation is a console-based application that mimics the basic functionality of an e-commerce shopping cart system. It allows users to browse products, add items to a cart, remove items, and calculate the total bill.
+The Java Online Cart Simulation is a GUI based application that mimics the basic functionality of an e-commerce shopping cart system. It allows users to browse products, add items to a cart, remove items, and calculate the total bill.
 
 This project is designed to demonstrate core Java concepts such as Object-Oriented Programming (OOP), collections, and user interaction.
 
@@ -12,18 +12,19 @@ This project is designed to demonstrate core Java concepts such as Object-Orient
 📋 Display cart items
 💰 Calculate total price
 🔄 Interactive menu-driven system
+
 🧱 Technologies Used
 Java (Core Java)
 OOP Concepts (Classes, Objects, Encapsulation)
 Java Collections (ArrayList / HashMap)
 Scanner (for user input)
+JDBC (Java Database Connectivity)
 📂 Project Structure
 OnlineCartSimulation/
-│── Main.java
-│── Product.java
-│── Cart.java
-│── CartItem.java
+│── JAVAAPP.java
+│── DatabaseConnection.java
 │── README.md
+
 ⚙️ How It Works
 The program displays a menu with options.
 Users can select actions like:
@@ -37,28 +38,17 @@ Prerequisites
 Java JDK installed (version 8 or above)
 Any IDE (e.g., IntelliJ, Eclipse) or terminal
 Steps
-# Clone the repository
-git clone https://github.com/your-username/online-cart-simulation.git
-
-# Navigate into the project
-cd online-cart-simulation
-
-# Compile the program
-javac Main.java
 
 # Run the program
-java Main
+Click on Run code (on VSCODE)
 💡 Example Output
 1. View Products
 2. Add to Cart
 3. Remove from Cart
 4. View Cart
 5. Checkout
-6. Exit
+6. Logout
 
-Enter your choice: 2
-Enter product ID: 101
-Product added successfully!
 📖 Concepts Covered
 Object-Oriented Programming (OOP)
 Classes and Objects
@@ -72,9 +62,10 @@ User authentication system
 Payment gateway simulation
 👤 Author
 
-Your Name
+Your Name: Darlington Chinokwetu
 
 GitHub: https://github.com/darlington-chinokwetu-codes-dev
+
 📜 License
 
 This project is open-source and available under the MIT License.
