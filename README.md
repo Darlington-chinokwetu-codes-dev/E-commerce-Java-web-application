@@ -17,7 +17,6 @@ This project is designed to demonstrate core Java concepts such as Object-Orient
 Java (Core Java)
 OOP Concepts (Classes, Objects, Encapsulation)
 Java Collections (ArrayList / HashMap)
-Scanner (for user input)
 JDBC (Java Database Connectivity)
 📂 Project Structure
 OnlineCartSimulation/
@@ -33,6 +32,10 @@ Remove product
 View cart
 The system updates the cart dynamically.
 Total price is calculated based on selected items.
+
+For detailed explanation follow the video:https://drive.google.com/drive/folders/1HD3Z_cuOTfjaN55zU53P7b5NclEkucFo?dmr=1&ec=wgc-drive-%5Bmodule%5D-goto&q=type:video%20parent:1HD3Z_cuOTfjaN55zU53P7b5NclEkucFo
+
+
 ▶️ How to Run
 Prerequisites
 Java JDK installed (version 8 or above)
@@ -62,7 +65,6 @@ User authentication system
 Payment gateway simulation
 
 👤 Author: Darlington Chinokwetu
-For detailed explanation follow the video:https://drive.google.com/drive/folders/1HD3Z_cuOTfjaN55zU53P7b5NclEkucFo?dmr=1&ec=wgc-drive-%5Bmodule%5D-goto&q=type:video%20parent:1HD3Z_cuOTfjaN55zU53P7b5NclEkucFo
 
 GitHub: https://github.com/darlington-chinokwetu-codes-dev
 
