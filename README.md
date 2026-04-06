@@ -33,7 +33,7 @@ View cart
 The system updates the cart dynamically.
 Total price is calculated based on selected items.
 
-For detailed explanation follow the video:https://drive.google.com/drive/folders/1HD3Z_cuOTfjaN55zU53P7b5NclEkucFo?dmr=1&ec=wgc-drive-%5Bmodule%5D-goto&q=type:video%20parent:1HD3Z_cuOTfjaN55zU53P7b5NclEkucFo
+For detailed explanation follow the video:[https://drive.google.com/drive/folders/1HD3Z_cuOTfjaN55zU53P7b5NclEkucFo?dmr=1&ec=wgc-drive-%5Bmodule%5D-goto&q=type:video%20parent:1HD3Z_cuOTfjaN55zU53P7b5NclEkucFo](https://drive.google.com/file/d/1DLkTtOFKVVE2jY-YHQ1VrItfIx2EjawP/view?usp=drive_link)
 
 
 ▶️ How to Run
