@@ -60,9 +60,9 @@ GUI using Java Swing or JavaFX
 Database integration (MySQL)
 User authentication system
 Payment gateway simulation
-👤 Author
 
-Your Name: Darlington Chinokwetu
+👤 Author: Darlington Chinokwetu
+For detailed explanation follow the video:https://drive.google.com/drive/folders/1HD3Z_cuOTfjaN55zU53P7b5NclEkucFo?dmr=1&ec=wgc-drive-%5Bmodule%5D-goto&q=type:video%20parent:1HD3Z_cuOTfjaN55zU53P7b5NclEkucFo
 
 GitHub: https://github.com/darlington-chinokwetu-codes-dev
 
